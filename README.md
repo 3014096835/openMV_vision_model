@@ -1,0 +1,2 @@
+# openMV_vision_model
+ 使用openMV训练神经网络完成PCB的视觉识别信息
